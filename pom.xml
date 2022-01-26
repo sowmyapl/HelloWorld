@@ -1,0 +1,11 @@
+    <project>
+      <modelVersion>4.0.0</modelVersion>
+     
+      <groupId>com.javafile</groupId>
+      <artifactId>javafile</artifactId>
+      <packing>war</packing>
+      <version>1</version>
+      <name>javafile</name>
+
+
+    </project>
